@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/illustrated-hero.svg" alt="Daniel Gutensohn: Thoughtful engineering. Better experiences. An illustrated retro computer, Colorado mountains, and Cooper, a small cartoon malamute by the desk." width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/illustrated-hero-mobile.svg" />
+  <img src="assets/illustrated-hero.svg" alt="Daniel Gutensohn: Thoughtful engineering. Better experiences. A retro computer with UI, API and DATA, Colorado mountains and Cooper resting beside the desk." width="100%" />
+</picture>
 
 **Senior Frontend & Full-Stack Engineer** · 10+ years building accessible applications and connected systems
 
@@ -8,16 +11,13 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%"><a href="#frontend--full-stack"><img src="assets/card-frontend.svg" alt="React and TypeScript: modern, scalable frontend experiences" width="100%" /></a></td>
-<td width="50%"><a href="#architecture--integration"><img src="assets/card-architecture.svg" alt="System architecture: full-stack applications and integrations" width="100%" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="#accessible-ux"><img src="assets/card-accessibility.svg" alt="Accessible UX: inclusive, usable experiences for everyone" width="100%" /></a></td>
-<td width="50%"><a href="#data--analytics"><img src="assets/card-analytics.svg" alt="Data and analytics: from learning data to actionable insights" width="100%" /></a></td>
-</tr>
-</table>
+<a href="#frontend--full-stack"><img src="assets/card-frontend.svg" alt="React and TypeScript — explore my experience" width="100%" /></a>
+
+<a href="#architecture--integration"><img src="assets/card-architecture.svg" alt="System architecture — explore my experience" width="100%" /></a>
+
+<a href="#accessible-ux"><img src="assets/card-accessibility.svg" alt="Accessible UX — explore my experience" width="100%" /></a>
+
+<a href="#data--analytics"><img src="assets/card-analytics.svg" alt="Data and analytics — explore my experience" width="100%" /></a>
 
 <img src="assets/developer-console.svg" alt="Developer console: define the problem, design the system, measure the impact. A little personality goes a long way." width="100%" />
 
