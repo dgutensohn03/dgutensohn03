@@ -6,7 +6,7 @@
 
 ### Senior Frontend & Full-Stack Engineer
 
-**I build the systems behind intuitive, reliable digital experiences.**
+**I engineer the systems behind intuitive, reliable digital experiences.**
 
 10+ years connecting frontend engineering, application architecture, accessible UX, and data-driven products.
 
@@ -39,12 +39,14 @@ My background includes **enterprise applications for audiences in 50+ countries*
 
 > **A senior engineer's job isn't just to ship features. It's to reduce uncertainty, make good technical decisions, and help teams deliver useful software sustainably.**
 
-## Engineering decisions
+## Engineering decisions · D'oh! → Aha! 💡
 
-<sub>Explore the reasoning behind the work. These are representative engineering scenarios, not disclosures of confidential client issues.</sub>
+The playful name is a nod to my avatar; the engineering decisions are serious. Good engineering isn't about never making mistakes. It's about recognizing assumptions, validating evidence, and improving the outcome.
+
+<sub>Expand a scenario to see the reasoning. These are representative engineering situations, not disclosures of confidential client issues.</sub>
 
 <details>
-<summary><strong>↗ Performance — A dashboard becomes slow as it scales</strong></summary>
+<summary><strong>🍩 D'oh! Rewrite the app? → Aha! Profile before optimizing</strong></summary>
 
 **The situation:** A team wants to add caching immediately because a reporting dashboard has become sluggish.
 
@@ -55,7 +57,7 @@ My background includes **enterprise applications for audiences in 50+ countries*
 </details>
 
 <details>
-<summary><strong>↗ Accessibility — A polished interface fails keyboard users</strong></summary>
+<summary><strong>♿ D'oh! It looks accessible → Aha! Test real workflows</strong></summary>
 
 **The situation:** A workflow looks finished but doesn't work reliably with keyboard navigation or assistive technology.
 
@@ -66,13 +68,30 @@ My background includes **enterprise applications for audiences in 50+ countries*
 </details>
 
 <details>
-<summary><strong>↗ Analytics — Plenty of events, very few answers</strong></summary>
+<summary><strong>📊 D'oh! More charts? → Aha! Better questions and cleaner data</strong></summary>
 
 **The situation:** Stakeholders see course completions but can't identify where learners are struggling.
 
 **My approach:** Start with the decisions stakeholders need to make. Define meaningful metrics, structure the xAPI event model, verify data quality, and design focused dashboards that reveal progress, attempts, and outcomes rather than visual noise.
 
 **What this draws on:** LMS/LRS integration, xAPI, PostgreSQL, React, and Plotly.
+
+</details>
+
+<details>
+<summary><strong>🍩 A little developer-console Easter egg</strong></summary>
+
+```text
+$ diagnose --production
+✓ Root cause identified
+✓ Accessible experience verified
+✓ Technical debt documented
+✓ Changes delivered with tests
+
+// D'oh! was a hypothesis. Aha! was the evidence.
+```
+
+The best part of the job is making complicated things feel effortless for the people using them.
 
 </details>
 
