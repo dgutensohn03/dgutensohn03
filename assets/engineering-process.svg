@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="188" viewBox="0 0 1100 188" role="img" aria-labelledby="t d">
+<title id="t">My engineering process</title><desc id="d">Four stages: understand the problem, design the experience, engineer the system, measure and improve. A feedback loop connects the final stage to the first.</desc>
+<rect width="1100" height="188" rx="14" fill="#14232f"/>
+<g stroke="#5aaea0" stroke-opacity=".5" stroke-width="2" fill="none"><path d="M266 84H285M536 84H555M806 84H825"/><path d="M954 139V163H147V139" stroke-dasharray="5 7"/></g>
+<g fill="#21404a" stroke="#6cbfae" stroke-width="1.5"><rect x="25" y="36" width="241" height="97" rx="12"/><rect x="295" y="36" width="241" height="97" rx="12"/><rect x="565" y="36" width="241" height="97" rx="12"/><rect x="835" y="36" width="241" height="97" rx="12"/></g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<g fill="#91dfcc" font-size="12" letter-spacing="1.4"><text x="145" y="64">01 / DISCOVER</text><text x="415" y="64">02 / DESIGN</text><text x="685" y="64">03 / ENGINEER</text><text x="955" y="64">04 / EVOLVE</text></g>
+<g fill="#f0f7f7" font-size="18" font-weight="600"><text x="145" y="99">Understand the problem</text><text x="415" y="99">Design the experience</text><text x="685" y="99">Build the system</text><text x="955" y="99">Measure &amp; improve</text></g>
+</g></svg>
