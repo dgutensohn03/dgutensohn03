@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/inside-the-build.svg" width="100%" alt="A streamlined system architecture illustration showing experience, application, and data connected." />
+<img src="assets/inside-the-build.svg" width="100%" alt="Thoughtful systems. Better experiences. A technical illustration connecting frontend, application, and outcomes." />
 
 # Daniel Gutensohn
 
-### Senior Frontend & Full-Stack Engineer
+**Senior Frontend & Full-Stack Engineer**
 
-**I engineer the systems behind intuitive, reliable digital experiences.**
-
-10+ years connecting frontend engineering, application architecture, accessible UX, and data-driven products.
+10+ years designing and building accessible web applications, scalable systems, and data-driven experiences.
 
 [**Portfolio ↗**](https://dgutensohn03.github.io/dg-portfolio/) &nbsp;·&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/daniel-gutensohn/) &nbsp;·&nbsp; [**Repositories ↗**](https://github.com/dgutensohn03?tab=repositories)
 
@@ -22,12 +20,23 @@ I work across the product and engineering lifecycle—from shaping ambiguous req
 
 My background includes **enterprise applications for audiences in 50+ countries**, learning platforms, analytics systems, and accessible web experiences. The common thread is solving complex problems without passing complexity on to users.
 
-- **🧩 Architecture & delivery** — React, TypeScript, Next.js, Node.js, APIs, authentication, PostgreSQL, cloud functions, CI/CD.
-- **♿ Interface engineering** — reusable components, interaction design, responsive systems, keyboard and screen-reader accessibility, WCAG-aligned practices.
-- **📊 Data & learning systems** — xAPI, SCORM, LMS/LRS integration, event modeling, Plotly dashboards, and actionable reporting.
-- **🤝 Technical leadership** — translating needs across disciplines, making tradeoffs visible, and carrying ideas from discovery through delivery.
+<img src="assets/icons/architecture.svg" width="27" alt="" align="left" /> **Architecture & delivery**
 
-## How I engineer outcomes
+React, TypeScript, Next.js, Node.js, APIs, authentication, PostgreSQL, cloud functions, and CI/CD.
+
+<img src="assets/icons/ux.svg" width="27" alt="" align="left" /> **Interface engineering**
+
+Reusable components, responsive interactions, keyboard and screen-reader accessibility, and WCAG-aligned practices.
+
+<img src="assets/icons/data.svg" width="27" alt="" align="left" /> **Data & learning systems**
+
+xAPI, SCORM, LMS/LRS integrations, event modeling, Plotly dashboards, and actionable reporting.
+
+<img src="assets/icons/leadership.svg" width="27" alt="" align="left" /> **Technical leadership**
+
+Cross-functional collaboration, clear architectural tradeoffs, design-to-delivery ownership, and mentoring through shared patterns.
+
+## How I work
 
 **01 / Understand** — Clarify the real problem, user needs, constraints, and success criteria.
 
@@ -39,14 +48,14 @@ My background includes **enterprise applications for audiences in 50+ countries*
 
 > **A senior engineer's job isn't just to ship features. It's to reduce uncertainty, make good technical decisions, and help teams deliver useful software sustainably.**
 
-## Engineering decisions · D'oh! → Aha! 💡
+## D'oh! → Aha! · Engineering decisions
 
-The playful name is a nod to my avatar; the engineering decisions are serious. Good engineering isn't about never making mistakes. It's about recognizing assumptions, validating evidence, and improving the outcome.
+A little personality, backed by a lot of engineering judgment. Here's how I approach common assumptions, tradeoffs, and unexpected problems.
 
 <sub>Expand a scenario to see the reasoning. These are representative engineering situations, not disclosures of confidential client issues.</sub>
 
 <details>
-<summary><strong>🍩 D'oh! Rewrite the app? → Aha! Profile before optimizing</strong></summary>
+<summary><strong>01 / Performance — Measure before optimizing</strong></summary>
 
 **The situation:** A team wants to add caching immediately because a reporting dashboard has become sluggish.
 
@@ -57,7 +66,7 @@ The playful name is a nod to my avatar; the engineering decisions are serious. G
 </details>
 
 <details>
-<summary><strong>♿ D'oh! It looks accessible → Aha! Test real workflows</strong></summary>
+<summary><strong>02 / Accessibility — Test the whole user journey</strong></summary>
 
 **The situation:** A workflow looks finished but doesn't work reliably with keyboard navigation or assistive technology.
 
@@ -68,7 +77,7 @@ The playful name is a nod to my avatar; the engineering decisions are serious. G
 </details>
 
 <details>
-<summary><strong>📊 D'oh! More charts? → Aha! Better questions and cleaner data</strong></summary>
+<summary><strong>03 / Analytics — Find the question behind the chart</strong></summary>
 
 **The situation:** Stakeholders see course completions but can't identify where learners are struggling.
 
@@ -79,7 +88,7 @@ The playful name is a nod to my avatar; the engineering decisions are serious. G
 </details>
 
 <details>
-<summary><strong>🍩 A little developer-console Easter egg</strong></summary>
+<summary><strong>🍩 Bonus / Developer-console Easter egg</strong></summary>
 
 ```text
 $ diagnose --production
