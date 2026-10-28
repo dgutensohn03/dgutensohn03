@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="740" viewBox="0 0 720 740" role="img" aria-labelledby="mt md">
+<title id="mt">Daniel Gutensohn — thoughtful engineering, better experiences</title><desc id="md">Mobile-first dark navy banner with 10-plus years, senior engineering positioning, an illustrated retro computer, Colorado mountains, and a small gray and white cartoon malamute named Cooper.</desc>
+<defs><linearGradient id="mBg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0a2237"/><stop offset="1" stop-color="#081a2c"/></linearGradient><clipPath id="clip"><rect width="720" height="740" rx="22"/></clipPath></defs>
+<g clip-path="url(#clip)"><rect width="720" height="740" fill="url(#mBg)"/>
+<rect x="26" y="30" width="54" height="54" rx="12" fill="#ffda4e"/><path d="M42 46H64V68H42Z M47 52L52 57L47 62M55 63H61" stroke="#112438" stroke-width="3" fill="none" stroke-linejoin="round"/>
+<text x="96" y="66" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="1" fill="#c6d8e4">DANIEL GUTENSOHN</text>
+<rect x="540" y="40" width="155" height="41" rx="21" fill="#173b55"/><text x="617" y="67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#ffda4e">10+ YEARS</text>
+<text x="30" y="162" font-family="Arial,Helvetica,sans-serif" font-size="45" font-weight="700" fill="#f4f7fc">Thoughtful engineering.</text>
+<text x="30" y="221" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" fill="#ffda4e">Better experiences.</text>
+<text x="32" y="268" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#bdd0db">Senior Frontend &amp; Full-Stack Engineer</text>
+<path d="M30 295H690" stroke="#3e6074" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing=".5" fill="#83d7f8"><text x="30" y="327">ENGINEERING</text><text x="270" y="327">ACCESSIBLE UX</text><text x="530" y="327" fill="#ffda4e">ANALYTICS</text></g>
+<rect x="14" y="352" width="692" height="376" rx="18" fill="#102b42" stroke="#21526b" stroke-width="2"/>
+<!-- Window and mountain backdrop -->
+<rect x="424" y="369" width="263" height="190" fill="#9edbf2" stroke="#b87d3b" stroke-width="11"/>
+<path d="M432 530L482 476L518 505L584 401L644 489L685 454V559H432" fill="#f2f5f6" stroke="#275776" stroke-width="3"/>
+<path d="M432 549L482 499L518 530L584 429L644 523L685 480V562H432" fill="#527e9d"/>
+<path d="M432 563L464 530L493 554L536 513L573 560L622 532L686 557V579H432" fill="#1c535b"/>
+<!-- Desk -->
+<path d="M15 637Q320 618 706 633V730H15" fill="#a76a39" stroke="#65422c" stroke-width="4"/>
+<!-- Computer -->
+<rect x="102" y="376" width="394" height="278" rx="30" fill="#e7d5b4" stroke="#20313c" stroke-width="6"/>
+<rect x="124" y="398" width="350" height="210" rx="16" fill="#14749a" stroke="#20313c" stroke-width="5"/>
+<rect x="138" y="409" width="322" height="188" rx="10" fill="#062439"/>
+<circle cx="160" cy="427" r="6" fill="#eb4895"/><circle cx="178" cy="427" r="6" fill="#ffd54f"/><circle cx="196" cy="427" r="6" fill="#27d29a"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#76d6fa"><text x="203" y="474">UI</text><text x="299" y="474">API</text><text x="403" y="474">DATA</text></g>
+<g stroke="#73d7fa" stroke-width="3" fill="none"><rect x="177" y="491" width="55" height="50" rx="5"/><path d="M177 505H232M196 516L188 522L196 529M215 516L223 522L215 529"/>
+<rect x="279" y="491" width="46" height="14" rx="4"/><rect x="279" y="511" width="46" height="14" rx="4"/><rect x="279" y="531" width="46" height="14" rx="4"/><ellipse cx="401" cy="500" rx="28" ry="9"/><path d="M373 500V541Q401 555 429 541V500M373 522Q401 538 429 522"/></g>
+<path d="M233 522H274M326 522H371" stroke="#ffda4e" stroke-width="3" stroke-dasharray="5 6"/>
+<rect x="232" y="559" width="172" height="26" rx="13" fill="#073d37" stroke="#29c990" stroke-width="2"/><text x="317" y="578" text-anchor="middle" font-family="Arial" font-size="15" font-weight="700" fill="#39d6a0">✓ SYSTEMS ONLINE</text>
+<rect x="173" y="622" width="236" height="16" rx="4" fill="#cfba93"/>
+<!-- Compact keyboard -->
+<path d="M143 648H469L485 684H125Z" fill="#e9d8b8" stroke="#20303d" stroke-width="4"/>
+<g stroke="#385066" stroke-width="2"><path d="M141 666H469M161 653H448M149 674H475M192 650L185 681M231 650L226 681M271 650L269 681M314 650L316 681M354 650L359 681M395 650L405 681"/></g>
+<!-- Cooper behind desk at far right, small and subordinate -->
+<g transform="translate(551 575) scale(.72)" stroke="#1b2833" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M6 75Q0 48 16 28L11 0Q38 8 51 30Q75 17 103 30L126 0Q144 28 131 48Q151 70 137 93Q112 111 72 108Q25 114 6 75Z" fill="#474a4b"/>
+<path d="M17 13L37 30L23 38Z M113 29L126 13L124 41Z" fill="#e2aaaa"/>
+<path d="M17 61Q32 43 57 54L70 69L83 53Q109 44 133 63Q135 91 110 99L88 91L71 107L53 91Q27 102 12 82Z" fill="#f4eee5"/>
+<path d="M49 37L60 22L71 47L83 23L99 37L83 58L71 68L56 55Z" fill="#2e383d" stroke="none"/>
+<ellipse cx="46" cy="69" rx="9" ry="8" fill="#d8a25a"/><ellipse cx="99" cy="69" rx="9" ry="8" fill="#d8a25a"/><circle cx="47" cy="69" r="3" fill="#1d292f" stroke="none"/><circle cx="98" cy="69" r="3" fill="#1d292f" stroke="none"/><path d="M60 84L71 92L83 84Z" fill="#1a242a"/>
+<path d="M0 94Q19 82 43 94L42 111Q14 120 0 103Z M105 96Q132 84 147 95L151 109Q125 121 107 112Z" fill="#f4eee5"/>
+</g>
+</g></svg>
