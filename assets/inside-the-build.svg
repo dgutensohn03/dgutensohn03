@@ -7,13 +7,13 @@
 <style>@media(prefers-reduced-motion:no-preference){.trace{stroke-dasharray:12 360;animation:flow 12s linear infinite}@keyframes flow{to{stroke-dashoffset:-372}}}</style>
 </defs>
 <rect width="1200" height="204" rx="14" fill="url(#bg)"/><rect width="1200" height="204" rx="14" fill="url(#grid)"/>
-<path d="M0 160H1200" stroke="#52737f" stroke-opacity=".22"/>
+<path d="M0 160H1200" stroke="#52737f" stroke-opacity=".22"/><rect x="28" y="24" width="8" height="8" rx="2" fill="#f2d15b"/><path d="M43 28H117" stroke="#f2d15b" stroke-opacity=".42" stroke-width="1.5"/>
 <g fill="none" stroke="#8da8b0" stroke-width="1.5" stroke-linejoin="round">
-<rect x="125" y="52" width="220" height="100" rx="10"/><path d="M125 75H345"/><circle cx="142" cy="64" r="2.5" fill="#7ed5c4" stroke="none"/><circle cx="152" cy="64" r="2.5" fill="#637f88" stroke="none"/><circle cx="162" cy="64" r="2.5" fill="#637f88" stroke="none"/>
+<rect x="125" y="52" width="220" height="100" rx="10"/><path d="M125 75H345"/><circle cx="142" cy="64" r="2.5" fill="#f2d15b" stroke="none"/><circle cx="152" cy="64" r="2.5" fill="#637f88" stroke="none"/><circle cx="162" cy="64" r="2.5" fill="#637f88" stroke="none"/>
 <rect x="147" y="92" width="65" height="44" rx="5" stroke="#7ed5c4"/><path d="M224 94H322M224 107H307M224 120H294"/>
 <rect x="488" y="45" width="220" height="114" rx="10"/><rect x="512" y="68" width="70" height="20" rx="4" stroke="#7ed5c4"/><rect x="613" y="68" width="70" height="20" rx="4" stroke="#7ed5c4"/><rect x="563" y="118" width="70" height="20" rx="4" stroke="#7ed5c4"/><path d="M547 88V103H598V118M648 88V103H598"/>
 <rect x="852" y="52" width="220" height="100" rx="10"/><ellipse cx="962" cy="77" rx="64" ry="15" stroke="#7ed5c4"/><path d="M898 77V126C898 134 927 141 962 141S1026 134 1026 126V77M898 101C898 110 927 117 962 117S1026 110 1026 101"/>
-<path d="M345 102H488M708 102H852" stroke="#547c85" stroke-width="2"/><path d="M475 96L486 102L475 108M839 96L850 102L839 108" stroke="#a0d9cb" stroke-width="2"/>
+<path d="M345 102H488M708 102H852" stroke="#547c85" stroke-width="2"/><path d="M475 96L486 102L475 108M839 96L850 102L839 108" stroke="#f2d15b" stroke-width="2"/>
 </g>
 <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round">
 <path class="trace" d="M345 102H488M708 102H852"/>
