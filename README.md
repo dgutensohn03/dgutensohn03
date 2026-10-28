@@ -19,19 +19,19 @@ I work across the product and engineering lifecycle—from shaping ambiguous req
 
 My background includes **enterprise applications for audiences in 50+ countries**, learning platforms, analytics systems, and accessible web experiences. The common thread is solving complex problems without passing complexity on to users.
 
-<img src="assets/icons/architecture.svg" width="28" alt="" align="left" /> **Architecture & delivery**
+<img src="assets/icons/architecture-yellow.svg" width="28" alt="" align="left" /> **Architecture & delivery**
 
 React, TypeScript, Next.js, Node.js, APIs, authentication, PostgreSQL, cloud functions, and CI/CD.
 
-<img src="assets/icons/ux.svg" width="28" alt="" align="left" /> **Interface engineering**
+<img src="assets/icons/ux-yellow.svg" width="28" alt="" align="left" /> **Interface engineering**
 
 Reusable components, responsive interactions, keyboard and screen-reader accessibility, and WCAG-aligned practices.
 
-<img src="assets/icons/data.svg" width="28" alt="" align="left" /> **Data & learning systems**
+<img src="assets/icons/data-yellow.svg" width="28" alt="" align="left" /> **Data & learning systems**
 
 xAPI, SCORM, LMS/LRS integrations, event modeling, Plotly dashboards, and actionable reporting.
 
-<img src="assets/icons/leadership.svg" width="28" alt="" align="left" /> **Technical leadership**
+<img src="assets/icons/leadership-yellow.svg" width="28" alt="" align="left" /> **Technical leadership**
 
 Cross-functional collaboration, architectural tradeoffs, design-to-delivery ownership, and reusable engineering practices.
 
