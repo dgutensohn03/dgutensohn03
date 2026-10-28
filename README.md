@@ -11,60 +11,54 @@
 
 </div>
 
-<a href="#frontend--full-stack"><img src="assets/card-frontend.svg" alt="React and TypeScript — explore my experience" width="100%" /></a>
+---
 
-<a href="#architecture--integration"><img src="assets/card-architecture.svg" alt="System architecture — explore my experience" width="100%" /></a>
+## What I bring
 
-<a href="#accessible-ux"><img src="assets/card-accessibility.svg" alt="Accessible UX — explore my experience" width="100%" /></a>
+I work across the product and engineering lifecycle—from shaping ambiguous requirements and designing interfaces to integrating services, modeling data, and improving what ships.
 
-<a href="#data--analytics"><img src="assets/card-analytics.svg" alt="Data and analytics — explore my experience" width="100%" /></a>
+My background includes **enterprise applications for audiences in 50+ countries**, learning platforms, analytics systems, and accessible web experiences. The common thread is solving complex problems without passing complexity on to users.
 
-<img src="assets/developer-console.svg" alt="Developer console: define the problem, design the system, measure the impact. A little personality goes a long way." width="100%" />
+<img src="assets/icons/architecture.svg" width="28" alt="" align="left" /> **Architecture & delivery**
 
-## <img src="assets/icons/section-about.svg" alt="" width="28" align="absmiddle" /> About me
+React, TypeScript, Next.js, Node.js, APIs, authentication, PostgreSQL, cloud functions, and CI/CD.
 
-I build the **interfaces people use** and the **systems that make them work**. Over 10+ years, I've led development across enterprise applications, learning platforms, and data-rich products—connecting React and TypeScript frontends to authentication, APIs, and analytics.
+<img src="assets/icons/ux.svg" width="28" alt="" align="left" /> **Interface engineering**
 
-My experience includes products supporting audiences in **50+ countries**. I care about the tradeoffs behind a solution: accessibility, reliability, maintainability, and whether the result actually helps someone.
+Reusable components, responsive interactions, keyboard and screen-reader accessibility, and WCAG-aligned practices.
 
-<a id="frontend--full-stack"></a>
+<img src="assets/icons/data.svg" width="28" alt="" align="left" /> **Data & learning systems**
 
-### Frontend & full-stack
-React · TypeScript · Next.js · Node.js · REST APIs · Authentication · Testing · CI/CD
+xAPI, SCORM, LMS/LRS integrations, event modeling, Plotly dashboards, and actionable reporting.
 
-<a id="architecture--integration"></a>
+<img src="assets/icons/leadership.svg" width="28" alt="" align="left" /> **Technical leadership**
 
-### Architecture & integration
-Application design · PostgreSQL · Firebase · Google Cloud Functions · Data flows · Reusable components
+Cross-functional collaboration, architectural tradeoffs, design-to-delivery ownership, and reusable engineering practices.
 
-<a id="accessible-ux"></a>
+## How I work
 
-### Accessible UX
-Semantic HTML · Keyboard and screen-reader support · WCAG 2.1 AA practices · Design systems
+**01 / Understand** — Clarify the real problem, user needs, constraints, and success criteria.
 
-<a id="data--analytics"></a>
+**02 / Architect** — Choose practical boundaries between interface, application logic, services, and data; explain the tradeoffs.
 
-### Data & analytics
-xAPI · SCORM · LMS/LRS integrations · Plotly · Event modeling · Reporting
+**03 / Deliver** — Build accessible, maintainable experiences with reusable patterns, testing, and reliable integration.
 
-### <img src="assets/icons/section-workflow.svg" alt="" width="28" align="absmiddle" /> How I work
+**04 / Improve** — Measure behavior and quality, learn from evidence, and refine the system.
 
-**Discover → Architect → Build → Validate → Improve**
+> A senior engineer's job isn't just to ship features. It's to reduce uncertainty, make good technical decisions, and help teams deliver useful software sustainably.
 
-I make constraints and tradeoffs explicit, choose maintainable approaches, collaborate across disciplines, and measure whether what we shipped actually helped. My focus is reducing uncertainty, making practical technical choices, and helping teams deliver software that holds up beyond launch.
+## D'oh! → Aha! · Engineering decisions
 
-## <img src="assets/icons/section-decisions.svg" alt="" width="28" align="absmiddle" /> Engineering decisions · D'oh! → Aha!
+A little personality, backed by a lot of engineering judgment. Here's how I approach common assumptions, tradeoffs, and unexpected problems.
 
-Three brief examples of how I approach technical decisions. The scenarios are illustrative; the methods reflect my work across enterprise applications and learning systems.
-
-<sub>Select a scenario to expand the reasoning. No client-confidential details are included.</sub>
+<sub>Expand a scenario to see the reasoning. These are representative engineering situations, not disclosures of confidential client issues.</sub>
 
 <details>
 <summary><strong>01 / Performance — Measure before optimizing</strong></summary>
 
 **The situation:** A team wants to add caching immediately because a reporting dashboard has become sluggish.
 
-**My approach:** First establish where time is spent: user interaction, rendering, request waterfalls, backend processing, or database queries. I would profile the critical path, validate the bottleneck, then choose an intervention based on evidence—not fashion. I'd measure before and after, and document the tradeoffs around complexity, consistency, and maintainability.
+**My approach:** First establish where time is spent: user interaction, rendering, request waterfalls, backend processing, or database queries. I would profile the critical path, validate the bottleneck, then choose an intervention based on evidence. I'd measure before and after, and document the tradeoffs around complexity, consistency, and maintainability.
 
 **What this draws on:** React/TypeScript, backend integrations, PostgreSQL, and analytics applications.
 
@@ -109,23 +103,23 @@ The best part of the job is making complicated things feel effortless for the pe
 
 </details>
 
-## <img src="assets/icons/section-experience.svg" alt="" width="28" align="absmiddle" /> Professional experience
+## Experience
 
 **Lead frontend / full-stack engineering · LHT Learning**  
 *2019–2025*
 
-Led frontend and application development for enterprise learning platforms and analytics systems. Worked across React/TypeScript architecture, authentication, service integrations, reporting, accessibility, and delivery with cross-functional design and learning teams. Built reusable patterns and translated complex requirements into usable interfaces.
+Led development across learning platforms and enterprise web applications, connecting requirements, application architecture, frontend engineering, data integrations, analytics, and accessibility. Collaborated across design, learning, and technical teams to deliver experiences for varied users and industries.
 
 **Frontend Development & UI Design · Xcelerate Media**  
 *2014–2019*
 
-Developed interactive web applications and digital learning experiences, pairing frontend engineering with UI design, animation, and user-centered interaction.
+Built interactive applications and learning experiences with a focus on interface design, animation, reusable patterns, and intuitive interaction.
 
 **Domains:** Healthcare · Enterprise learning · Consumer products · Utilities
 
-## <img src="assets/icons/section-work.svg" alt="" width="28" align="absmiddle" /> Selected work & evidence
+## Selected evidence
 
-Public examples of the work and engineering decisions behind it. Some enterprise work is private.
+A few public examples of my engineering work—not the full extent of my professional experience:
 
 - **[High Colorado](https://github.com/dgutensohn03/High-Colorado)** — map-first UX, weather integrations, offline-capable PWA, and product decision support.
 - **[Engineering portfolio](https://github.com/dgutensohn03/dg-portfolio)** — Next.js, TypeScript, accessible interface patterns, and technical storytelling.
@@ -133,7 +127,7 @@ Public examples of the work and engineering decisions behind it. Some enterprise
 - **[xAPI-ify](https://github.com/dgutensohn03/xAPI-ify)** — learning-event interoperability.
 
 <details>
-<summary><strong>Technology reference · expand stack</strong></summary>
+<summary><strong>Technology reference</strong></summary>
 
 **Frontend:** React · TypeScript · JavaScript · Next.js · HTML · CSS · Tailwind  
 **Backend & data:** Node.js · REST APIs · PostgreSQL · Firebase · Google Cloud Functions  
@@ -146,8 +140,6 @@ Public examples of the work and engineering decisions behind it. Some enterprise
 ---
 
 <div align="center">
-
-<img src="assets/icons/section-connect.svg" alt="" width="28" />
 
 **Building something complex? Let's make it clear, useful, and maintainable.**
 
