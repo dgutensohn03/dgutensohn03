@@ -1,52 +1,49 @@
 <div align="center">
 
-<img src="assets/inside-the-build.svg" width="100%" alt="Thoughtful systems. Better experiences. A technical illustration connecting frontend, application, and outcomes." />
+<img src="assets/illustrated-hero.svg" alt="Daniel Gutensohn: Thoughtful engineering. Better experiences. An illustrated retro computer, Colorado mountains, and Cooper, a small cartoon malamute by the desk." width="100%" />
 
-# Daniel Gutensohn
+**Senior Frontend & Full-Stack Engineer** · 10+ years building accessible applications and connected systems
 
-**Senior Frontend & Full-Stack Engineer**
-
-10+ years designing and building accessible web applications, scalable systems, and data-driven experiences.
-
-[**Portfolio ↗**](https://dgutensohn03.github.io/dg-portfolio/) &nbsp;·&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/daniel-gutensohn/) &nbsp;·&nbsp; [**Repositories ↗**](https://github.com/dgutensohn03?tab=repositories)
+[**Portfolio ↗**](https://dgutensohn03.github.io/dg-portfolio/) · [**LinkedIn ↗**](https://www.linkedin.com/in/daniel-gutensohn/) · [**Repositories ↗**](https://github.com/dgutensohn03?tab=repositories)
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%"><a href="#frontend--full-stack"><img src="assets/card-frontend.svg" alt="React and TypeScript: modern, scalable frontend experiences" width="100%" /></a></td>
+<td width="50%"><a href="#architecture--integration"><img src="assets/card-architecture.svg" alt="System architecture: full-stack applications and integrations" width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="#accessible-ux"><img src="assets/card-accessibility.svg" alt="Accessible UX: inclusive, usable experiences for everyone" width="100%" /></a></td>
+<td width="50%"><a href="#data--analytics"><img src="assets/card-analytics.svg" alt="Data and analytics: from learning data to actionable insights" width="100%" /></a></td>
+</tr>
+</table>
 
-## What I bring
+<img src="assets/developer-console.svg" alt="Developer console: define the problem, design the system, measure the impact. A little personality goes a long way." width="100%" />
 
-I work across the product and engineering lifecycle—from shaping ambiguous requirements and designing interfaces to integrating services, modeling data, and improving what ships.
+## About me
 
-My background includes **enterprise applications for audiences in 50+ countries**, learning platforms, analytics systems, and accessible web experiences. The common thread is solving complex problems without passing complexity on to users.
+I've spent **10+ years** turning complex requirements into applications that feel straightforward to use. I work across frontend engineering, full-stack architecture, interface design, and data integrations—from defining a problem to delivering and improving a product.
 
-<img src="assets/icons/architecture.svg" width="27" alt="" align="left" /> **Architecture & delivery**
+My experience includes enterprise applications serving audiences in **50+ countries**, learning platforms, analytics dashboards, and accessible interfaces. I care about implementation quality *and* whether the result solves the right problem.
 
-React, TypeScript, Next.js, Node.js, APIs, authentication, PostgreSQL, cloud functions, and CI/CD.
+### Frontend & full-stack
+React · TypeScript · Next.js · Node.js · REST APIs · Authentication · Testing · CI/CD
 
-<img src="assets/icons/ux.svg" width="27" alt="" align="left" /> **Interface engineering**
+### Architecture & integration
+Application design · PostgreSQL · Firebase · Google Cloud Functions · Data flows · Reusable components
 
-Reusable components, responsive interactions, keyboard and screen-reader accessibility, and WCAG-aligned practices.
+### Accessible UX
+Semantic HTML · Keyboard and screen-reader support · WCAG 2.1 AA practices · Design systems
 
-<img src="assets/icons/data.svg" width="27" alt="" align="left" /> **Data & learning systems**
+### Data & analytics
+xAPI · SCORM · LMS/LRS integrations · Plotly · Event modeling · Reporting
 
-xAPI, SCORM, LMS/LRS integrations, event modeling, Plotly dashboards, and actionable reporting.
+### How I work
 
-<img src="assets/icons/leadership.svg" width="27" alt="" align="left" /> **Technical leadership**
+**Discover → Architect → Build → Validate → Improve**
 
-Cross-functional collaboration, clear architectural tradeoffs, design-to-delivery ownership, and mentoring through shared patterns.
-
-## How I work
-
-**01 / Understand** — Clarify the real problem, user needs, constraints, and success criteria.
-
-**02 / Architect** — Choose practical boundaries between interface, application logic, services, and data; explain the tradeoffs.
-
-**03 / Deliver** — Build accessible, maintainable experiences with reusable patterns, testing, and reliable integration.
-
-**04 / Improve** — Measure behavior and quality, learn from evidence, and refine the system.
-
-> **A senior engineer's job isn't just to ship features. It's to reduce uncertainty, make good technical decisions, and help teams deliver useful software sustainably.**
+I make constraints and tradeoffs explicit, choose maintainable approaches, collaborate across disciplines, and measure whether what we shipped actually helped. Senior engineering is about judgment and team outcomes—not just knowing a framework.
 
 ## D'oh! → Aha! · Engineering decisions
 
@@ -104,9 +101,9 @@ The best part of the job is making complicated things feel effortless for the pe
 
 </details>
 
-## Experience
+## Professional experience
 
-**Lead Full-Stack / Frontend Engineering · LHT Learning**  
+**Lead Full-Stack / Frontend Engineer · LHT Learning**  
 *2019–2025*
 
 Led development across learning platforms and enterprise web applications, connecting requirements, application architecture, frontend engineering, data integrations, analytics, and accessibility. Collaborated across design, learning, and technical teams to deliver experiences for varied users and industries.
