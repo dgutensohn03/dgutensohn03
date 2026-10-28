@@ -1,122 +1,121 @@
 <div align="center">
 
-<img src="assets/inside-the-build.svg" alt="Inside the Build — Daniel Gutensohn, senior frontend and full-stack engineer. Engineering, UX, and learning systems." width="100%" />
+<img src="assets/inside-the-build.svg" width="100%" alt="A streamlined system architecture illustration showing experience, application, and data connected." />
 
-### Senior Frontend & Full-Stack Engineer · UX Engineering · Learning Technology
+# Daniel Gutensohn
 
-**I make complex systems feel simple — from the architecture underneath to the experience on screen.**
+### Senior Frontend & Full-Stack Engineer
 
-[Portfolio](https://dgutensohn03.github.io/dg-portfolio/) · [LinkedIn](https://www.linkedin.com/in/daniel-gutensohn/) · [Explore my work](https://github.com/dgutensohn03?tab=repositories)
+**I build the systems behind intuitive, reliable digital experiences.**
+
+10+ years connecting frontend engineering, application architecture, accessible UX, and data-driven products.
+
+[**Portfolio ↗**](https://dgutensohn03.github.io/dg-portfolio/) &nbsp;·&nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/daniel-gutensohn/) &nbsp;·&nbsp; [**Repositories ↗**](https://github.com/dgutensohn03?tab=repositories)
 
 </div>
 
 ---
 
-## The short version
+## What I bring
 
-I've spent **10+ years** building web experiences and the systems behind them: architecting frontend applications, connecting services and data, designing reusable interfaces, and making complicated workflows easier to understand.
+I work across the product and engineering lifecycle—from shaping ambiguous requirements and designing interfaces to integrating services, modeling data, and improving what ships.
 
-My work spans **enterprise software, learning technology, and analytics**, including products for international audiences across **50+ countries**. I bring together software engineering, user experience, and clear technical communication — and I care as much about *why* a solution works as *how* it was built.
+My background includes **enterprise applications for audiences in 50+ countries**, learning platforms, analytics systems, and accessible web experiences. The common thread is solving complex problems without passing complexity on to users.
 
-> **My approach:** Understand the problem. Make the tradeoffs explicit. Build something maintainable. Validate the experience. Keep improving it.
+- **🧩 Architecture & delivery** — React, TypeScript, Next.js, Node.js, APIs, authentication, PostgreSQL, cloud functions, CI/CD.
+- **♿ Interface engineering** — reusable components, interaction design, responsive systems, keyboard and screen-reader accessibility, WCAG-aligned practices.
+- **📊 Data & learning systems** — xAPI, SCORM, LMS/LRS integration, event modeling, Plotly dashboards, and actionable reporting.
+- **🤝 Technical leadership** — translating needs across disciplines, making tradeoffs visible, and carrying ideas from discovery through delivery.
 
-## What I bring to a team
+## How I engineer outcomes
 
-| Engineering systems | Designing experiences | Turning data into decisions |
-| :--- | :--- | :--- |
-| React, TypeScript, Next.js, Node.js, REST APIs, PostgreSQL, authentication, CI/CD | Component architecture, design systems, accessibility, responsive interfaces, UI testing | xAPI, LMS/LRS integrations, data modeling, analytics dashboards, Plotly, learning measurement |
-| **I connect architecture to delivery.** | **I design for real people.** | **I make complicated information useful.** |
+**01 / Understand** — Clarify the real problem, user needs, constraints, and success criteria.
 
-### From problem to outcome
+**02 / Architect** — Choose practical boundaries between interface, application logic, services, and data; explain the tradeoffs.
 
-<img src="assets/engineering-process.svg" alt="Engineering process: understand the problem, design the experience, build the system, measure and improve, then repeat." width="100%" />
+**03 / Deliver** — Build accessible, maintainable experiences with reusable patterns, testing, and reliable integration.
 
-## Engineering Decisions · Explore how I think
+**04 / Improve** — Measure behavior and quality, learn from evidence, and refine the system.
 
-**Three realistic situations. No trick questions.** Choose a scenario, consider your approach, then expand the reasoning. These are representative situations informed by my professional experience, not descriptions of specific confidential incidents.
+> **A senior engineer's job isn't just to ship features. It's to reduce uncertainty, make good technical decisions, and help teams deliver useful software sustainably.**
 
-<details>
-<summary><strong>01 · An application is slow. Where do you start?</strong> &nbsp; <code>Performance · Full-stack</code></summary>
+## Engineering decisions
 
-**Scenario:** A reporting dashboard is taking noticeably longer to load as usage grows. The team wants to add caching immediately.
-
-**Think it through:** Is the bottleneck browser rendering, the API, network transfer, or database queries? What evidence would you gather before changing architecture?
+<sub>Explore the reasoning behind the work. These are representative engineering scenarios, not disclosures of confidential client issues.</sub>
 
 <details>
-<summary>Reveal my approach</summary>
+<summary><strong>↗ Performance — A dashboard becomes slow as it scales</strong></summary>
 
-I start with measurements, not a rewrite: trace the critical user journey, separate network latency from rendering cost, examine request waterfalls and payloads, and inspect backend timings and query behavior. Then I target the highest-impact constraint, compare before/after results, and document tradeoffs like cache freshness and complexity.
+**The situation:** A team wants to add caching immediately because a reporting dashboard has become sluggish.
 
-**Experience behind it:** React/TypeScript interfaces; Node.js and cloud functions; PostgreSQL-backed analytics; data-heavy dashboards.
+**My approach:** First establish where time is spent: user interaction, rendering, request waterfalls, backend processing, or database queries. I would profile the critical path, validate the bottleneck, then choose an intervention based on evidence—not fashion. I'd measure before and after, and document the tradeoffs around complexity, consistency, and maintainability.
 
-</details>
+**What this draws on:** React/TypeScript, backend integrations, PostgreSQL, and analytics applications.
+
 </details>
 
 <details>
-<summary><strong>02 · A workflow works with a mouse but excludes other users.</strong> &nbsp; <code>Accessibility · UX engineering</code></summary>
+<summary><strong>↗ Accessibility — A polished interface fails keyboard users</strong></summary>
 
-**Scenario:** A complex web workflow passes visual review, but keyboard and assistive-technology users are struggling.
+**The situation:** A workflow looks finished but doesn't work reliably with keyboard navigation or assistive technology.
 
-**Think it through:** Which steps do you test? How do you prioritize what to fix? How do you prevent regressions?
+**My approach:** Test the end-to-end task, inspect semantics and focus order, prioritize blockers, correct the underlying interaction pattern, and add regression coverage. Accessibility is an engineering quality requirement, not an overlay or last-minute checklist.
 
-<details>
-<summary>Reveal my approach</summary>
+**What this draws on:** Design systems, component architecture, semantic HTML, focus management, ARIA, and WCAG 2.1 AA practices.
 
-I reproduce the complete task with a keyboard and screen reader, inspect semantic structure and focus order, check error messaging and contrast, and prioritize barriers that prevent task completion. I fix the underlying component behavior rather than relying on an overlay, then add practical regression checks and guidance for the team.
-
-**Experience behind it:** Accessible component patterns; semantic HTML, ARIA and focus management; WCAG 2.1 AA practices; UI quality assurance.
-
-</details>
 </details>
 
 <details>
-<summary><strong>03 · A learning dashboard has data but no meaningful answers.</strong> &nbsp; <code>Analytics · Learning systems</code></summary>
+<summary><strong>↗ Analytics — Plenty of events, very few answers</strong></summary>
 
-**Scenario:** Stakeholders can see course completions but can't tell where learners struggle or whether training is effective.
+**The situation:** Stakeholders see course completions but can't identify where learners are struggling.
 
-**Think it through:** What should the system measure? How should events be modeled? Which visualizations actually help someone act?
+**My approach:** Start with the decisions stakeholders need to make. Define meaningful metrics, structure the xAPI event model, verify data quality, and design focused dashboards that reveal progress, attempts, and outcomes rather than visual noise.
+
+**What this draws on:** LMS/LRS integration, xAPI, PostgreSQL, React, and Plotly.
+
+</details>
+
+## Experience
+
+**Lead Full-Stack / Frontend Engineering · LHT Learning**  
+*2019–2025*
+
+Led development across learning platforms and enterprise web applications, connecting requirements, application architecture, frontend engineering, data integrations, analytics, and accessibility. Collaborated across design, learning, and technical teams to deliver experiences for varied users and industries.
+
+**Frontend Development & UI Design · Xcelerate Media**  
+*2014–2019*
+
+Built interactive applications and learning experiences with a focus on interface design, animation, reusable patterns, and intuitive interaction.
+
+**Domains:** Healthcare · Enterprise learning · Consumer products · Utilities
+
+## Selected evidence
+
+A few public examples of my engineering work—not the full extent of my professional experience:
+
+- **[High Colorado](https://github.com/dgutensohn03/High-Colorado)** — map-first UX, weather integrations, offline-capable PWA, and product decision support.
+- **[Engineering portfolio](https://github.com/dgutensohn03/dg-portfolio)** — Next.js, TypeScript, accessible interface patterns, and technical storytelling.
+- **[VCERT](https://github.com/dgutensohn03/VCert)** — personalized learning workflows and progress tracking.
+- **[xAPI-ify](https://github.com/dgutensohn03/xAPI-ify)** — learning-event interoperability.
 
 <details>
-<summary>Reveal my approach</summary>
+<summary><strong>Technology reference</strong></summary>
 
-I begin with the decisions stakeholders need to make. Then I define meaningful learning events and metrics, validate the xAPI data model and reporting pipeline, and design focused views around progress, attempts, completion, and outcomes. The goal isn't more charts — it's trustworthy evidence people can use.
-
-**Experience behind it:** LMS/LRS integrations; xAPI and SCORM; React and Plotly dashboards; PostgreSQL and analytics workflows.
+**Frontend:** React · TypeScript · JavaScript · Next.js · HTML · CSS · Tailwind  
+**Backend & data:** Node.js · REST APIs · PostgreSQL · Firebase · Google Cloud Functions  
+**Quality & delivery:** GitHub Actions · Docker · Jest · Playwright · Accessibility testing  
+**Learning & analytics:** xAPI · SCORM · LMS/LRS · Learning Locker · Plotly  
+**Design:** Figma · Component systems · Responsive UI · WCAG
 
 </details>
-</details>
-
-<sub>Built for GitHub: the challenges use accessible, expandable Markdown rather than JavaScript that GitHub READMEs can't execute.</sub>
-
-## Experience, not just a stack
-
-**2019–2025 · LHT Learning**  
-Led frontend and learning-technology development across enterprise applications and learning platforms. Worked across requirements, architecture, interface engineering, integration, analytics, accessibility, and delivery in collaboration with multidisciplinary teams.
-
-**2014–2019 · Xcelerate Media**  
-Built interactive web and digital learning experiences, combining frontend implementation with interface design, animation, and user-centered problem solving.
-
-Across these roles, I've supported teams working in **healthcare, consumer products, utilities, and other enterprise environments**. My strength is moving between product, design, engineering, and learning requirements without losing sight of the end user.
-
-## A few examples of the work
-
-- **[High Colorado](https://github.com/dgutensohn03/High-Colorado)** — map-first planning, responsive interaction, external data, and offline-capable PWA architecture.
-- **[Engineering portfolio](https://github.com/dgutensohn03/dg-portfolio)** — the design and engineering approach behind this site, including reusable UI and accessible presentation.
-- **[VCERT](https://github.com/dgutensohn03/VCert)** — a learning-platform example connecting personalized experiences and progress tracking.
-- **[xAPI-ify](https://github.com/dgutensohn03/xAPI-ify)** — exploration of learning-event interoperability and the xAPI ecosystem.
-
-## In practice
-
-`React` · `TypeScript` · `Next.js` · `JavaScript` · `Node.js` · `REST APIs` · `PostgreSQL` · `Firebase` · `GCP` · `Docker` · `GitHub Actions` · `Playwright` · `Figma` · `WCAG` · `xAPI` · `SCORM`
 
 ---
 
 <div align="center">
 
-**Have a complicated problem worth simplifying?**
+**Building something complex? Let's make it clear, useful, and maintainable.**
 
-[See my portfolio](https://dgutensohn03.github.io/dg-portfolio/) · [Connect on LinkedIn](https://www.linkedin.com/in/daniel-gutensohn/)
-
-<sub>Clear thinking. Thoughtful engineering. Useful experiences.</sub>
+[**Explore my portfolio**](https://dgutensohn03.github.io/dg-portfolio/) · [**Connect on LinkedIn**](https://www.linkedin.com/in/daniel-gutensohn/)
 
 </div>
