@@ -1,22 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="204" viewBox="0 0 1200 204" role="img" aria-labelledby="t d">
-<title id="t">Daniel Gutensohn — engineering, experience, and data</title><desc id="d">An understated architectural illustration: an interface connects to an application service, which connects to data, forming a coherent system.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+<title id="title">Daniel Gutensohn — engineer the experience</title><desc id="description">A polished navy and warm-yellow technical banner showing a connected interface, application architecture and meaningful outcomes.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b26"/><stop offset="1" stop-color="#182e38"/></linearGradient>
-<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#7ed5c4"/><stop offset="1" stop-color="#acc7e7"/></linearGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8db0bb" stroke-opacity=".055"/></pattern>
-<style>@media(prefers-reduced-motion:no-preference){.trace{stroke-dasharray:12 360;animation:flow 12s linear infinite}@keyframes flow{to{stroke-dashoffset:-372}}}</style>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101a28"/><stop offset="1" stop-color="#192e3c"/></linearGradient>
+ <pattern id="p" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#90b6bf" stroke-opacity=".075"/></pattern>
+ <style>
+ .signal{stroke-dasharray:10 210;stroke-dashoffset:220}
+ @media(prefers-reduced-motion:no-preference){.signal{animation:send 11s ease-in-out infinite}@keyframes send{0%,12%{stroke-dashoffset:220;opacity:0}18%{opacity:1}72%{stroke-dashoffset:-220;opacity:1}80%,100%{stroke-dashoffset:-220;opacity:0}}}
+ </style>
 </defs>
-<rect width="1200" height="204" rx="14" fill="url(#bg)"/><rect width="1200" height="204" rx="14" fill="url(#grid)"/>
-<path d="M0 160H1200" stroke="#52737f" stroke-opacity=".22"/><rect x="28" y="24" width="8" height="8" rx="2" fill="#f2d15b"/><path d="M43 28H117" stroke="#f2d15b" stroke-opacity=".42" stroke-width="1.5"/>
-<g fill="none" stroke="#8da8b0" stroke-width="1.5" stroke-linejoin="round">
-<rect x="125" y="52" width="220" height="100" rx="10"/><path d="M125 75H345"/><circle cx="142" cy="64" r="2.5" fill="#f2d15b" stroke="none"/><circle cx="152" cy="64" r="2.5" fill="#637f88" stroke="none"/><circle cx="162" cy="64" r="2.5" fill="#637f88" stroke="none"/>
-<rect x="147" y="92" width="65" height="44" rx="5" stroke="#7ed5c4"/><path d="M224 94H322M224 107H307M224 120H294"/>
-<rect x="488" y="45" width="220" height="114" rx="10"/><rect x="512" y="68" width="70" height="20" rx="4" stroke="#7ed5c4"/><rect x="613" y="68" width="70" height="20" rx="4" stroke="#7ed5c4"/><rect x="563" y="118" width="70" height="20" rx="4" stroke="#7ed5c4"/><path d="M547 88V103H598V118M648 88V103H598"/>
-<rect x="852" y="52" width="220" height="100" rx="10"/><ellipse cx="962" cy="77" rx="64" ry="15" stroke="#7ed5c4"/><path d="M898 77V126C898 134 927 141 962 141S1026 134 1026 126V77M898 101C898 110 927 117 962 117S1026 110 1026 101"/>
-<path d="M345 102H488M708 102H852" stroke="#547c85" stroke-width="2"/><path d="M475 96L486 102L475 108M839 96L850 102L839 108" stroke="#f2d15b" stroke-width="2"/>
-</g>
-<g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round">
-<path class="trace" d="M345 102H488M708 102H852"/>
-</g>
-<g fill="#a6c3c9" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2" text-anchor="middle"><text x="235" y="177">EXPERIENCE</text><text x="598" y="177">APPLICATION</text><text x="962" y="177">DATA</text></g>
-</svg>
+<rect width="1200" height="260" rx="16" fill="url(#bg)"/><rect width="1200" height="260" rx="16" fill="url(#p)"/>
+<rect x="52" y="37" width="5" height="21" rx="2.5" fill="#f7d95b"/>
+<text x="73" y="53" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2.3" fill="#a9c4cb">THE ENGINEERING PRACTICE</text>
+<text x="52" y="121" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1" fill="#f7faf9">Thoughtful systems.</text>
+<text x="52" y="171" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1" fill="#f7d95b">Better experiences.</text>
+<text x="55" y="216" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#bacdd4">Frontend precision. Full-stack perspective. Human-centered outcomes.</text>
+<g transform="translate(670 22)">
+ <rect x="8" y="19" width="500" height="204" rx="18" fill="#142635" stroke="#43616d" stroke-width="1.5"/>
+ <g fill="none" stroke="#8dadb4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+ <rect x="30" y="47" width="126" height="114" rx="9" fill="#1a3442"/><path d="M30 68H156"/><circle cx="44" cy="57" r="3" fill="#f7d95b" stroke="none"/><circle cx="56" cy="57" r="3" fill="#557582" stroke="none"/>
+ <rect x="46" y="83" width="36" height="28" rx="3" stroke="#f7d95b"/><path d="M93 85H139M93 96H126M46 125H139M46 136H120"/>
+ <rect x="201" y="47" width="124" height="114" rx="9" fill="#1a3442"/><rect x="217" y="68" width="36" height="23" rx="4" stroke="#8ad7c9"/><rect x="273" y="68" width="36" height="23" rx="4" stroke="#8ad7c9"/><rect x="244" y="121" width="39" height="23" rx="4" stroke="#8ad7c9"/><path d="M235 91V106H263V121M291 91V106H263"/>
+ <rect x="370" y="47" width="115" height="114" rx="9" fill="#1a3442"/>
+ <path d="M388 133V115L405 98L420 107L444 81L468 67" stroke="#f7d95b" stroke-width="2.2"/><path d="M388 144H469M388 144V65" stroke="#688593"/>
+ <path d="M156 104H201M325 104H370" stroke="#668b95" stroke-width="2"/><path d="M192 99L200 104L192 109M361 99L369 104L361 109" stroke="#f7d95b" stroke-width="2"/>
+ </g>
+ <g fill="none" stroke="#f7d95b" stroke-width="2.7" stroke-linecap="round"><path class="signal" d="M156 104H201M325 104H370"/></g>
+ <g fill="#c8dbe0" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.3" text-anchor="middle"><text x="93" y="188">FRONTEND</text><text x="263" y="188">APPLICATION</text><text x="428" y="188">OUTCOMES</text></g>
+</g></svg>
