@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/illustrated-hero-mobile.svg" />
-  <img src="assets/illustrated-hero.svg" alt="Daniel Gutensohn: Thoughtful engineering. Better experiences. A retro computer with UI, API and DATA, Colorado mountains and Cooper resting beside the desk." width="100%" />
+  <source media="(max-width: 600px)" srcset="assets/daniel-cooper-workstation-mobile.webp" type="image/webp" />
+  <img src="assets/daniel-cooper-hero.webp" alt="Daniel Gutensohn — Thoughtful engineering. Better experiences. Illustrated retro computer, UI/API/data architecture, Colorado mountains and Cooper beside the desk." width="100%" />
 </picture>
 
 **Senior Frontend & Full-Stack Engineer** · 10+ years building accessible applications and connected systems
