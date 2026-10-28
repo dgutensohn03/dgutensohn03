@@ -27,15 +27,9 @@ My work spans **enterprise software, learning technology, and analytics**, inclu
 | React, TypeScript, Next.js, Node.js, REST APIs, PostgreSQL, authentication, CI/CD | Component architecture, design systems, accessibility, responsive interfaces, UI testing | xAPI, LMS/LRS integrations, data modeling, analytics dashboards, Plotly, learning measurement |
 | **I connect architecture to delivery.** | **I design for real people.** | **I make complicated information useful.** |
 
-### How the experience connects
+### From problem to outcome
 
-```mermaid
-flowchart LR
-  A[Understand the problem] --> B[Design the experience]
-  B --> C[Engineer the system]
-  C --> D[Measure & learn]
-  D --> A
-```
+<img src="assets/engineering-process.svg" alt="Engineering process: understand the problem, design the experience, build the system, measure and improve, then repeat." width="100%" />
 
 ## Engineering Decisions · Explore how I think
 
