@@ -21,35 +21,43 @@
 
 <img src="assets/developer-console.svg" alt="Developer console: define the problem, design the system, measure the impact. A little personality goes a long way." width="100%" />
 
-## About me
+## <img src="assets/icons/section-about.svg" alt="" width="28" align="absmiddle" /> About me
 
-I've spent **10+ years** turning complex requirements into applications that feel straightforward to use. I work across frontend engineering, full-stack architecture, interface design, and data integrations—from defining a problem to delivering and improving a product.
+I build the **interfaces people use** and the **systems that make them work**. Over 10+ years, I've led development across enterprise applications, learning platforms, and data-rich products—connecting React and TypeScript frontends to authentication, APIs, and analytics.
 
-My experience includes enterprise applications serving audiences in **50+ countries**, learning platforms, analytics dashboards, and accessible interfaces. I care about implementation quality *and* whether the result solves the right problem.
+My experience includes products supporting audiences in **50+ countries**. I care about the tradeoffs behind a solution: accessibility, reliability, maintainability, and whether the result actually helps someone.
+
+<a id="frontend--full-stack"></a>
 
 ### Frontend & full-stack
 React · TypeScript · Next.js · Node.js · REST APIs · Authentication · Testing · CI/CD
 
+<a id="architecture--integration"></a>
+
 ### Architecture & integration
 Application design · PostgreSQL · Firebase · Google Cloud Functions · Data flows · Reusable components
+
+<a id="accessible-ux"></a>
 
 ### Accessible UX
 Semantic HTML · Keyboard and screen-reader support · WCAG 2.1 AA practices · Design systems
 
+<a id="data--analytics"></a>
+
 ### Data & analytics
 xAPI · SCORM · LMS/LRS integrations · Plotly · Event modeling · Reporting
 
-### How I work
+### <img src="assets/icons/section-workflow.svg" alt="" width="28" align="absmiddle" /> How I work
 
 **Discover → Architect → Build → Validate → Improve**
 
-I make constraints and tradeoffs explicit, choose maintainable approaches, collaborate across disciplines, and measure whether what we shipped actually helped. Senior engineering is about judgment and team outcomes—not just knowing a framework.
+I make constraints and tradeoffs explicit, choose maintainable approaches, collaborate across disciplines, and measure whether what we shipped actually helped. My focus is reducing uncertainty, making practical technical choices, and helping teams deliver software that holds up beyond launch.
 
-## D'oh! → Aha! · Engineering decisions
+## <img src="assets/icons/section-decisions.svg" alt="" width="28" align="absmiddle" /> Engineering decisions · D'oh! → Aha!
 
-A little personality, backed by a lot of engineering judgment. Here's how I approach common assumptions, tradeoffs, and unexpected problems.
+Three brief examples of how I approach technical decisions. The scenarios are illustrative; the methods reflect my work across enterprise applications and learning systems.
 
-<sub>Expand a scenario to see the reasoning. These are representative engineering situations, not disclosures of confidential client issues.</sub>
+<sub>Select a scenario to expand the reasoning. No client-confidential details are included.</sub>
 
 <details>
 <summary><strong>01 / Performance — Measure before optimizing</strong></summary>
@@ -101,23 +109,23 @@ The best part of the job is making complicated things feel effortless for the pe
 
 </details>
 
-## Professional experience
+## <img src="assets/icons/section-experience.svg" alt="" width="28" align="absmiddle" /> Professional experience
 
-**Lead Full-Stack / Frontend Engineer · LHT Learning**  
+**Lead frontend / full-stack engineering · LHT Learning**  
 *2019–2025*
 
-Led development across learning platforms and enterprise web applications, connecting requirements, application architecture, frontend engineering, data integrations, analytics, and accessibility. Collaborated across design, learning, and technical teams to deliver experiences for varied users and industries.
+Led frontend and application development for enterprise learning platforms and analytics systems. Worked across React/TypeScript architecture, authentication, service integrations, reporting, accessibility, and delivery with cross-functional design and learning teams. Built reusable patterns and translated complex requirements into usable interfaces.
 
 **Frontend Development & UI Design · Xcelerate Media**  
 *2014–2019*
 
-Built interactive applications and learning experiences with a focus on interface design, animation, reusable patterns, and intuitive interaction.
+Developed interactive web applications and digital learning experiences, pairing frontend engineering with UI design, animation, and user-centered interaction.
 
 **Domains:** Healthcare · Enterprise learning · Consumer products · Utilities
 
-## Selected evidence
+## <img src="assets/icons/section-work.svg" alt="" width="28" align="absmiddle" /> Selected work & evidence
 
-A few public examples of my engineering work—not the full extent of my professional experience:
+Public examples of the work and engineering decisions behind it. Some enterprise work is private.
 
 - **[High Colorado](https://github.com/dgutensohn03/High-Colorado)** — map-first UX, weather integrations, offline-capable PWA, and product decision support.
 - **[Engineering portfolio](https://github.com/dgutensohn03/dg-portfolio)** — Next.js, TypeScript, accessible interface patterns, and technical storytelling.
@@ -125,7 +133,7 @@ A few public examples of my engineering work—not the full extent of my profess
 - **[xAPI-ify](https://github.com/dgutensohn03/xAPI-ify)** — learning-event interoperability.
 
 <details>
-<summary><strong>Technology reference</strong></summary>
+<summary><strong>Technology reference · expand stack</strong></summary>
 
 **Frontend:** React · TypeScript · JavaScript · Next.js · HTML · CSS · Tailwind  
 **Backend & data:** Node.js · REST APIs · PostgreSQL · Firebase · Google Cloud Functions  
@@ -138,6 +146,8 @@ A few public examples of my engineering work—not the full extent of my profess
 ---
 
 <div align="center">
+
+<img src="assets/icons/section-connect.svg" alt="" width="28" />
 
 **Building something complex? Let's make it clear, useful, and maintainable.**
 
