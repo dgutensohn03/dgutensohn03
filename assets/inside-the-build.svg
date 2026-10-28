@@ -1,52 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-<title id="title">Inside the Build — Daniel Gutensohn</title><desc id="description">Senior frontend and full-stack engineering. A refined editorial title beside a gently animated system diagram.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="204" viewBox="0 0 1200 204" role="img" aria-labelledby="t d">
+<title id="t">Daniel Gutensohn — engineering, experience, and data</title><desc id="d">An understated architectural illustration: an interface connects to an application service, which connects to data, forming a coherent system.</desc>
 <defs>
- <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#111b27"/><stop offset="1" stop-color="#1c303a"/></linearGradient>
- <radialGradient id="glow"><stop stop-color="#4ca99b" stop-opacity=".19"/><stop offset="1" stop-color="#4ca99b" stop-opacity="0"/></radialGradient>
- <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a9c7ce" stroke-opacity=".07" stroke-width="1"/></pattern>
- <style>
- .orbit{animation:drift 9s ease-in-out infinite alternate;transform-origin:985px 180px}
- .pulse{animation:pulse 6s ease-in-out infinite}
- .pulse2{animation:pulse 6s ease-in-out infinite 2s}
- @keyframes drift{from{transform:translateY(-6px)}to{transform:translateY(7px)}}
- @keyframes pulse{0%,100%{opacity:.42}50%{opacity:1}}
- @media (prefers-reduced-motion:reduce){.orbit,.pulse,.pulse2{animation:none}}
- </style>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b26"/><stop offset="1" stop-color="#182e38"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#7ed5c4"/><stop offset="1" stop-color="#acc7e7"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8db0bb" stroke-opacity=".055"/></pattern>
+<style>@media(prefers-reduced-motion:no-preference){.trace{stroke-dasharray:12 360;animation:flow 12s linear infinite}@keyframes flow{to{stroke-dashoffset:-372}}}</style>
 </defs>
-<rect width="1200" height="360" rx="16" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="16" fill="url(#grid)"/>
-<circle cx="970" cy="160" r="245" fill="url(#glow)"/>
-<rect x="56" y="52" width="5" height="17" rx="2.5" fill="#80ddc6"/>
-<text x="77" y="66" fill="#afc9cf" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2.3">DANIEL GUTENSOHN  /  ENGINEERING PROFILE</text>
-<text x="56" y="148" fill="#f5f8fa" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="700" letter-spacing="-1.6">Inside the Build.</text>
-<text x="59" y="197" fill="#c4d4d9" font-family="Arial,Helvetica,sans-serif" font-size="22">A decade of turning complexity into clarity.</text>
-<line x1="59" y1="235" x2="617" y2="235" stroke="#729099" stroke-opacity=".45"/>
-<text x="59" y="274" fill="#a8e5d6" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.1">ENGINEERING</text>
-<text x="247" y="274" fill="#a8e5d6" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.1">EXPERIENCE</text>
-<text x="438" y="274" fill="#a8e5d6" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.1">INTELLIGENCE</text>
-<g class="orbit">
- <g fill="none" stroke="#6cbfae" stroke-width="1.5" stroke-opacity=".55">
-  <path d="M847 114 C889 114 892 97 934 97"/>
-  <path d="M998 124 C1036 124 1045 167 1069 167"/>
-  <path d="M1003 229 C955 229 951 265 905 265"/>
-  <path d="M807 155 C800 185 818 213 855 234"/>
-  <path d="M1085 196 C1085 235 1037 258 1003 267"/>
- </g>
- <g fill="#1c3b43" stroke="#6fc8b6" stroke-opacity=".72" stroke-width="1.5">
-  <rect x="718" y="89" width="155" height="62" rx="12"/>
-  <rect x="922" y="63" width="159" height="62" rx="12"/>
-  <rect x="852" y="232" width="155" height="62" rx="12"/>
-  <rect x="1018" y="153" width="134" height="62" rx="12"/>
- </g>
- <g fill="#e8f3f3" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600" text-anchor="middle" dominant-baseline="middle">
-  <text x="795.5" y="120">Understand</text>
-  <text x="1001.5" y="94">Design</text>
-  <text x="929.5" y="263">Measure</text>
-  <text x="1085" y="184">Build</text>
- </g>
- <circle class="pulse" cx="899" cy="109" r="4" fill="#8be5d0"/>
- <circle class="pulse2" cx="1033" cy="143" r="4" fill="#8be5d0"/>
- <circle class="pulse" cx="826" cy="211" r="3.5" fill="#8be5d0"/>
+<rect width="1200" height="204" rx="14" fill="url(#bg)"/><rect width="1200" height="204" rx="14" fill="url(#grid)"/>
+<path d="M0 160H1200" stroke="#52737f" stroke-opacity=".22"/>
+<g fill="none" stroke="#8da8b0" stroke-width="1.5" stroke-linejoin="round">
+<rect x="125" y="52" width="220" height="100" rx="10"/><path d="M125 75H345"/><circle cx="142" cy="64" r="2.5" fill="#7ed5c4" stroke="none"/><circle cx="152" cy="64" r="2.5" fill="#637f88" stroke="none"/><circle cx="162" cy="64" r="2.5" fill="#637f88" stroke="none"/>
+<rect x="147" y="92" width="65" height="44" rx="5" stroke="#7ed5c4"/><path d="M224 94H322M224 107H307M224 120H294"/>
+<rect x="488" y="45" width="220" height="114" rx="10"/><rect x="512" y="68" width="70" height="20" rx="4" stroke="#7ed5c4"/><rect x="613" y="68" width="70" height="20" rx="4" stroke="#7ed5c4"/><rect x="563" y="118" width="70" height="20" rx="4" stroke="#7ed5c4"/><path d="M547 88V103H598V118M648 88V103H598"/>
+<rect x="852" y="52" width="220" height="100" rx="10"/><ellipse cx="962" cy="77" rx="64" ry="15" stroke="#7ed5c4"/><path d="M898 77V126C898 134 927 141 962 141S1026 134 1026 126V77M898 101C898 110 927 117 962 117S1026 110 1026 101"/>
+<path d="M345 102H488M708 102H852" stroke="#547c85" stroke-width="2"/><path d="M475 96L486 102L475 108M839 96L850 102L839 108" stroke="#a0d9cb" stroke-width="2"/>
 </g>
-<text x="1141" y="332" fill="#829da5" font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="end" letter-spacing="1.5">DESIGN  ·  BUILD  ·  MEASURE</text>
+<g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round">
+<path class="trace" d="M345 102H488M708 102H852"/>
+</g>
+<g fill="#a6c3c9" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2" text-anchor="middle"><text x="235" y="177">EXPERIENCE</text><text x="598" y="177">APPLICATION</text><text x="962" y="177">DATA</text></g>
 </svg>
