@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="t d">
-<title id="t">Daniel Gutensohn — Thoughtful engineering. Better experiences.</title><desc id="d">An illustrated retro computer workstation with a UI to API to DATA diagram, Colorado mountains, plants, and Cooper, a small black-and-white malamute resting beside the keyboard. Professional positioning and 10-plus years of experience appear on the left.</desc>
+<title id="t">Daniel Gutensohn — Thoughtful engineering. Better experiences.</title><desc id="d">An illustrated retro computer workstation with a UI to API to DATA diagram, Colorado mountains, plants, and Cooper, a small gray, black and white malamute with amber eyes tucked behind the desk. Professional positioning and 10-plus years of experience appear on the left.</desc>
 <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#0b2237"/><stop offset="1" stop-color="#091c2d"/></linearGradient><linearGradient id="screen" x2="0" y2="1"><stop stop-color="#06263a"/><stop offset="1" stop-color="#051d2d"/></linearGradient><clipPath id="rounded"><rect x="3" y="3" width="1434" height="414" rx="18"/></clipPath></defs>
 <rect width="1440" height="420" rx="21" fill="#071523"/><rect x="3" y="3" width="1434" height="414" rx="18" fill="url(#bg)" stroke="#1d4560" stroke-width="2"/>
 <g clip-path="url(#rounded)">
@@ -22,7 +22,18 @@
 <rect x="987" y="325" width="122" height="11" rx="4" fill="#203442"/>
 <path d="M919 343H1220L1262 392H888Z" fill="#e3cda6" stroke="#1b2833" stroke-width="5"/>
 <g stroke="#365367" stroke-width="2"><path d="M913 361H1229M905 376H1245"/><path d="M938 346L918 386M968 346L954 386M1004 346L997 386M1040 346V386M1077 346L1084 386M1114 346L1129 386M1150 346L1172 386"/></g>
-<g transform="translate(1270 299)" stroke="#20303a" stroke-width="4" stroke-linejoin="round"><path d="M12 47L8 5Q29 16 42 33Q73 20 100 35L120 2L130 49Q155 72 135 97Q112 110 63 105Q15 103 0 78Q-7 61 12 47Z" fill="#424448"/><path d="M10 67Q27 45 58 58L66 79L78 57Q116 39 141 69Q134 100 75 101Q21 101 10 67" fill="#f0e7d8"/><path d="M60 76L69 84L80 76Z" fill="#141b24"/><path d="M40 65Q47 58 53 65M89 65Q96 58 102 65" stroke="#b67d35" fill="none"/></g>
+<g transform="translate(1280 255) scale(.78)" stroke="#1b2833" stroke-linejoin="round" stroke-linecap="round">
+<!-- Cooper sits behind the keyboard, small and secondary to the workstation. -->
+<path d="M8 88Q-2 46 17 30L10 1Q35 5 54 24Q80 14 106 28L130 0Q146 25 132 47Q158 67 141 101Q114 117 70 111Q22 117 8 88Z" fill="#44494c" stroke-width="4"/>
+<path d="M17 11L38 29L21 37Z M118 29L130 10L125 40Z" fill="#dca9a6" stroke-width="2"/>
+<path d="M21 61Q30 44 57 49L68 65L77 48Q107 40 132 60L137 81Q130 105 100 103L84 96L70 110L54 96Q24 104 12 83Z" fill="#f3eee4" stroke-width="3"/>
+<path d="M47 35L58 22L67 42L74 47L82 23L95 33L83 57L70 67L55 54Z" fill="#303a42" stroke="none"/>
+<path d="M22 80Q28 92 48 92Q47 104 31 106Q10 109 4 94Z M105 91Q125 94 137 83L151 97Q145 112 119 109L107 106Z" fill="#eee7dc" stroke-width="3"/>
+<ellipse cx="45" cy="67" rx="8" ry="7" fill="#d7a052" stroke-width="2"/><ellipse cx="101" cy="67" rx="8" ry="7" fill="#d7a052" stroke-width="2"/>
+<circle cx="47" cy="67" r="3.5" fill="#1b252b" stroke="none"/><circle cx="99" cy="67" r="3.5" fill="#1b252b" stroke="none"/>
+<path d="M59 84Q70 78 82 84L72 92Z" fill="#18232a" stroke-width="2"/><path d="M71 92Q67 98 60 97M72 92Q78 99 85 97" fill="none" stroke-width="2"/>
+<path d="M17 85Q28 82 38 84M110 83Q121 81 134 85" fill="none" stroke="#c5bfb5" stroke-width="2"/>
+</g>
 <g transform="translate(724 317)"><path d="M0 4H101V43H0Z" fill="#15496b" stroke="#0b2237" stroke-width="4"/><path d="M0 18H101M0 31H101" stroke="#06304a" stroke-width="3"/><text x="9" y="15" font-family="Arial" font-size="12" fill="#f7d153">React</text><text x="9" y="28" font-family="Arial" font-size="11" fill="#bde5ed">TypeScript</text><text x="9" y="41" font-family="Arial" font-size="10" fill="#f7d153">Accessibility</text></g>
 <g transform="translate(823 335)"><path d="M0 0H55V60Q27 75 0 60Z" fill="#eee2c3" stroke="#202b36" stroke-width="4"/><path d="M55 12Q85 7 80 31Q75 50 55 44" fill="none" stroke="#eee2c3" stroke-width="9"/><text x="28" y="23" font-family="Arial" font-size="12" font-weight="700" text-anchor="middle" fill="#1f2430">COFFEE</text><text x="28" y="37" font-family="Arial" font-size="12" font-weight="700" text-anchor="middle" fill="#1f2430">FUELS</text><text x="28" y="51" font-family="Arial" font-size="12" font-weight="700" text-anchor="middle" fill="#1f2430">BUILDS</text></g>
 </g>
