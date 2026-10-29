@@ -2,10 +2,13 @@
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/daniel-cooper-workstation-mobile.webp" type="image/webp" />
-  <img src="assets/daniel-cooper-hero.webp" alt="Daniel Gutensohn — Thoughtful engineering. Better experiences. Illustrated retro computer, UI/API/data architecture, Colorado mountains and Cooper beside the desk." width="100%" />
+  <img src="assets/daniel-cooper-hero.webp" alt="Illustrated developer studio with a retro UI-to-API-to-data computer, Colorado mountains, and Cooper. The artwork currently reads Thoughtful engineering. Better experiences." width="100%" />
 </picture>
 
-**Senior Frontend & Full-Stack Engineer** · 10+ years building accessible applications and connected systems
+### Thoughtful engineering. Meaningful impact.
+
+**Senior Frontend & Full-Stack Engineer**  
+Architecture · Accessible UX · Data & Analytics
 
 [**Portfolio ↗**](https://dgutensohn03.github.io/dg-portfolio/) · [**LinkedIn ↗**](https://www.linkedin.com/in/daniel-gutensohn/) · [**Repositories ↗**](https://github.com/dgutensohn03?tab=repositories)
 
@@ -17,7 +20,7 @@
 
 I work across the product and engineering lifecycle—from shaping ambiguous requirements and designing interfaces to integrating services, modeling data, and improving what ships.
 
-My background includes **enterprise applications for audiences in 50+ countries**, learning platforms, analytics systems, and accessible web experiences. The common thread is solving complex problems without passing complexity on to users.
+My background includes **enterprise applications for audiences in 50+ countries**, learning platforms, analytics systems, and accessible web experiences. I focus on making complex systems useful, accessible, and measurable—without passing the complexity on to users.
 
 <img src="assets/icons/architecture-yellow.svg" width="28" alt="" align="left" /> **Architecture & delivery**
 
