@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/daniel-cooper-workstation-mobile.webp" type="image/webp" />
-  <img src="assets/daniel-cooper-hero.webp" alt="Illustrated developer studio with a retro UI-to-API-to-data computer, Colorado mountains, and Cooper. The artwork currently reads Thoughtful engineering. Better experiences." width="100%" />
+  <source media="(max-width: 600px)" srcset="assets/daniel-impact-mobile.webp" type="image/webp" />
+  <img src="assets/daniel-impact-desktop.webp" alt="Daniel Gutensohn — Thoughtful engineering. Meaningful impact. Cartoon developer workstation with a retro UI, API and data diagram, Colorado mountains, and Cooper's framed portrait." width="100%" />
 </picture>
 
 ### Thoughtful engineering. Meaningful impact.
