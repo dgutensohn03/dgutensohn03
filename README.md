@@ -1,14 +1,12 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/daniel-cooper-workstation-mobile.webp" type="image/webp" />
-  <img src="assets/daniel-cooper-hero.webp" alt="Illustrated developer workstation featuring UI, API and data, the Colorado mountains, and Cooper. Banner reads Thoughtful engineering. Better experiences." width="100%" />
+  <source media="(max-width: 600px)" srcset="assets/daniel-impact-mobile.webp" type="image/webp" />
+  <img src="assets/daniel-impact-desktop.webp" alt="Daniel Gutensohn — Thoughtful engineering. Meaningful impact. Illustrated studio with retro UI/API/DATA monitor, Colorado mountains and Cooper." width="100%" />
 </picture>
 
 **Senior Frontend & Full-Stack Engineer**  
 Architecture · Accessible UX · Data & Analytics
-
-*Thoughtful engineering. Meaningful impact.*
 
 [**Portfolio ↗**](https://dgutensohn03.github.io/dg-portfolio/) · [**LinkedIn ↗**](https://www.linkedin.com/in/daniel-gutensohn/) · [**Repositories ↗**](https://github.com/dgutensohn03?tab=repositories)
 
