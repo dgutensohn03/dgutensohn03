@@ -5,9 +5,11 @@
   <img src="assets/daniel-hero-desktop.webp" alt="Daniel Gutensohn — Thoughtful engineering. Meaningful impact. Illustrated studio with retro UI/API/DATA monitor, Colorado mountains and Cooper." width="100%" />
 </picture>
 
-<sub>Senior Frontend & Full-Stack Engineer · Architecture · Accessible UX · Data & Analytics</sub>
-
-[**Portfolio ↗**](https://dgutensohn03.github.io/dg-portfolio/) · [**LinkedIn ↗**](https://www.linkedin.com/in/daniel-gutensohn/) · [**Repositories ↗**](https://github.com/dgutensohn03?tab=repositories)
+<p align="center">
+  <a href="https://dgutensohn03.github.io/dg-portfolio/" aria-label="Visit engineering portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-123452?style=for-the-badge&logo=googlechrome&logoColor=F7C948" height="28" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/daniel-gutensohn/" aria-label="View LinkedIn profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-123452?style=for-the-badge&logo=linkedin&logoColor=44C7E8" height="28" /></a>&nbsp;
+  <a href="https://github.com/dgutensohn03?tab=repositories" aria-label="Explore GitHub repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-123452?style=for-the-badge&logo=github&logoColor=F7C948" height="28" /></a>
+</p>
 
 </div>
 
