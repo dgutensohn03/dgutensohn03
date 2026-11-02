@@ -17,18 +17,18 @@
 
 ## What I bring
 
-I build **fast, accessible, responsive web applications** with React, Next.js, and TypeScript—balancing polished user experiences with maintainable frontend architecture.
+I'm a **hands-on senior frontend engineer** building responsive, accessible, high-performance applications with **React, Next.js, and TypeScript**. I care about useful interfaces, maintainable component systems, and shipping software that works for real people.
 
-My work spans reusable component systems, complex user workflows, API integrations, and products serving audiences in **50+ countries**. I bring a full-stack perspective to frontend decisions without losing sight of usability, performance, or delivery.
+I've built enterprise products for audiences in **50+ countries**, from complex authenticated workflows to data-rich dashboards. My full-stack experience helps me make better frontend decisions—without taking my focus away from the UI.
 
-| Frontend strength | What I bring |
+| Focus | How I apply it |
 | :--- | :--- |
-| **React, Next.js & TypeScript** | Component architecture, typed interfaces, routing, stateful workflows, integration with APIs, and maintainable application patterns. |
-| **Performance & responsive UX** | Profiling, rendering and loading improvements, responsive layout decisions, and a measurement-first approach to Core Web Vitals. |
-| **Accessibility & design systems** | Semantic HTML, keyboard and screen-reader workflows, focus management, reusable UI components, and WCAG 2.1 AA-aligned practices. |
-| **Full-stack collaboration** | Node.js, authentication, PostgreSQL, cloud functions, CI/CD, analytics, and cross-functional design-to-delivery ownership. |
+| **Frontend engineering** | React, Next.js, TypeScript, reusable components, typed interfaces, routing, and API-driven applications. |
+| **Accessible & performant UX** | Responsive design, semantic HTML, keyboard and screen-reader journeys, WCAG 2.1 AA practices, and measuring performance before optimizing. |
+| **Application architecture** | Component boundaries, design patterns, authentication, REST APIs, Node.js, PostgreSQL, cloud functions, and CI/CD. |
+| **Data-rich experiences** | Interactive dashboards, Plotly, analytics, xAPI event modeling, and LMS/LRS integrations that turn complex information into clear decisions. |
 
-**Beyond frontend:** I also build learning platforms and data-rich applications using xAPI, SCORM, LMS/LRS integrations, and analytics dashboards. Those skills broaden my perspective; they don't define the only work I do.
+**What sets me apart:** I don't just render data. I've built the systems that capture it, connect it, and make it meaningful to users. That's an additional strength—not a departure from hands-on React engineering.
 
 ## How I work
 
@@ -112,14 +112,15 @@ Built interactive applications and learning experiences with a focus on interfac
 
 **Domains:** Healthcare · Enterprise learning · Consumer products · Utilities
 
-## Selected evidence
+## Selected engineering work
 
-A few public examples of my engineering work—not the full extent of my professional experience:
+These projects demonstrate hands-on frontend problem-solving, application integration, and my additional depth in data-rich products.
 
-- **[High Colorado](https://github.com/dgutensohn03/High-Colorado)** — map-first UX, weather integrations, offline-capable PWA, and product decision support.
-- **[Engineering portfolio](https://github.com/dgutensohn03/dg-portfolio)** — Next.js, TypeScript, accessible interface patterns, and technical storytelling.
-- **[VCERT](https://github.com/dgutensohn03/VCert)** — personalized learning workflows and progress tracking.
-- **[xAPI-ify](https://github.com/dgutensohn03/xAPI-ify)** — learning-event interoperability.
+- **[High Colorado](https://github.com/dgutensohn03/High-Colorado)** — React/Next.js-style product engineering, responsive mapping UX, weather integrations, and offline-capable planning workflows.
+- **[VCERT](https://github.com/dgutensohn03/VCert)** — React/TypeScript training portal with authentication, personalized workflows, progress tracking, and interactive UI.
+- **[Engineering portfolio](https://github.com/dgutensohn03/dg-portfolio)** — Next.js, TypeScript, accessible component patterns, and frontend storytelling.
+- **Learning analytics dashboard (professional work)** — React, Plotly, PostgreSQL, cloud functions, and Microsoft authentication to turn learning-event data into actionable reporting. *Architecture and implementation details are summarized without exposing client code.*
+- **[xAPI-ify](https://github.com/dgutensohn03/xAPI-ify)** — Interoperability and event-data concepts behind learning analytics.
 
 <details>
 <summary><strong>Technology reference</strong></summary>
