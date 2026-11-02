@@ -17,16 +17,18 @@
 
 ## What I bring
 
-I turn complex requirements into **accessible, maintainable products**—connecting frontend experiences, application architecture, services, and data from discovery through delivery.
+I build **fast, accessible, responsive web applications** with React, Next.js, and TypeScript—balancing polished user experiences with maintainable frontend architecture.
 
-I've built enterprise applications for audiences in **50+ countries**, learning platforms, and analytics systems. My focus is helping teams make sound technical decisions and making sophisticated systems feel straightforward to use.
+My work spans reusable component systems, complex user workflows, API integrations, and products serving audiences in **50+ countries**. I bring a full-stack perspective to frontend decisions without losing sight of usability, performance, or delivery.
 
-| Expertise | How I contribute |
+| Frontend strength | What I bring |
 | :--- | :--- |
-| **Architecture & delivery** | React, TypeScript, Next.js, Node.js, APIs, authentication, PostgreSQL, cloud functions, and CI/CD. |
-| **Interface engineering** | Reusable components, responsive UX, keyboard and screen-reader support, and WCAG-aligned design systems. |
-| **Data & learning systems** | xAPI, SCORM, LMS/LRS integrations, event modeling, Plotly dashboards, and actionable reporting. |
-| **Technical leadership** | Cross-functional collaboration, clear tradeoffs, end-to-end ownership, and practical engineering standards. |
+| **React, Next.js & TypeScript** | Component architecture, typed interfaces, routing, stateful workflows, integration with APIs, and maintainable application patterns. |
+| **Performance & responsive UX** | Profiling, rendering and loading improvements, responsive layout decisions, and a measurement-first approach to Core Web Vitals. |
+| **Accessibility & design systems** | Semantic HTML, keyboard and screen-reader workflows, focus management, reusable UI components, and WCAG 2.1 AA-aligned practices. |
+| **Full-stack collaboration** | Node.js, authentication, PostgreSQL, cloud functions, CI/CD, analytics, and cross-functional design-to-delivery ownership. |
+
+**Beyond frontend:** I also build learning platforms and data-rich applications using xAPI, SCORM, LMS/LRS integrations, and analytics dashboards. Those skills broaden my perspective; they don't define the only work I do.
 
 ## How I work
 
