@@ -17,25 +17,16 @@
 
 ## What I bring
 
-I work across the product and engineering lifecycle—from shaping ambiguous requirements and designing interfaces to integrating services, modeling data, and improving what ships.
+I turn complex requirements into **accessible, maintainable products**—connecting frontend experiences, application architecture, services, and data from discovery through delivery.
 
-My background includes **enterprise applications for audiences in 50+ countries**, learning platforms, analytics systems, and accessible web experiences. I focus on making complex systems useful, accessible, and measurable—without passing the complexity on to users.
+I've built enterprise applications for audiences in **50+ countries**, learning platforms, and analytics systems. My focus is helping teams make sound technical decisions and making sophisticated systems feel straightforward to use.
 
-<img src="assets/icons/architecture-yellow.svg" width="28" alt="" align="left" /> **Architecture & delivery**
-
-React, TypeScript, Next.js, Node.js, APIs, authentication, PostgreSQL, cloud functions, and CI/CD.
-
-<img src="assets/icons/ux-yellow.svg" width="28" alt="" align="left" /> **Interface engineering**
-
-Reusable components, responsive interactions, keyboard and screen-reader accessibility, and WCAG-aligned practices.
-
-<img src="assets/icons/data-yellow.svg" width="28" alt="" align="left" /> **Data & learning systems**
-
-xAPI, SCORM, LMS/LRS integrations, event modeling, Plotly dashboards, and actionable reporting.
-
-<img src="assets/icons/leadership-yellow.svg" width="28" alt="" align="left" /> **Technical leadership**
-
-Cross-functional collaboration, architectural tradeoffs, design-to-delivery ownership, and reusable engineering practices.
+| Expertise | How I contribute |
+| :--- | :--- |
+| **Architecture & delivery** | React, TypeScript, Next.js, Node.js, APIs, authentication, PostgreSQL, cloud functions, and CI/CD. |
+| **Interface engineering** | Reusable components, responsive UX, keyboard and screen-reader support, and WCAG-aligned design systems. |
+| **Data & learning systems** | xAPI, SCORM, LMS/LRS integrations, event modeling, Plotly dashboards, and actionable reporting. |
+| **Technical leadership** | Cross-functional collaboration, clear tradeoffs, end-to-end ownership, and practical engineering standards. |
 
 ## How I work
 
