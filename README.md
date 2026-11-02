@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/daniel-impact-mobile.webp" type="image/webp" />
-  <img src="assets/daniel-impact-desktop.webp" alt="Daniel Gutensohn — Thoughtful engineering. Meaningful impact. Illustrated studio with retro UI/API/DATA monitor, Colorado mountains and Cooper." width="100%" />
+  <source media="(max-width: 600px)" srcset="assets/daniel-hero-mobile.webp" type="image/webp" />
+  <img src="assets/daniel-hero-desktop.webp" alt="Daniel Gutensohn — Thoughtful engineering. Meaningful impact. Illustrated studio with retro UI/API/DATA monitor, Colorado mountains and Cooper." width="100%" />
 </picture>
 
 <sub>Senior Frontend & Full-Stack Engineer · Architecture · Accessible UX · Data & Analytics</sub>
